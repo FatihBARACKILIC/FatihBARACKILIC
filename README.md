@@ -284,6 +284,7 @@
     />
   </a>
 </p>
+<hr/>
 
 <!-- Github Stats -->
 <p align="center">

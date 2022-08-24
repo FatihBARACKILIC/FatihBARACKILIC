@@ -7,15 +7,15 @@
 
 <!-- Joke -->
 <!-- <p align="center">
-    <img
-      src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&borderColor=white&qColor=%233178C6&aColor=%23C2D0D8&textColor=%23C2D0D8&codeColor=%23C2D0D8"
-      alt="Jokes Card"
-    />
-  </p> -->
+      <img
+        src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&borderColor=white&qColor=%233178C6&aColor=%23C2D0D8&textColor=%23C2D0D8&codeColor=%23C2D0D8"
+        alt="Jokes Card"
+      />
+    </p> -->
 
 <!-- Quotes -->
 <p align="center">
-  <a target="blank" href="https://github.com/piyushsuthar/github-readme-quotes" style="border-radius: 15px">
+  <a target="blank" href="https://github.com/piyushsuthar/github-readme-quotes">
     <img
       src="https://quotes-github-readme.vercel.app/api?type=horizontal"
       alt="fatihbarackilic"
@@ -24,13 +24,13 @@
 </p>
 
 <!-- <p align="center">
-    <a target="blank" href="https://github.com/piyushsuthar/github-readme-quotes">
-      <img
-        src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-        alt="fatihbarackilic"
-      />
-    </a>
-  </p> -->
+      <a target="blank" href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img
+          src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+          alt="fatihbarackilic"
+        />
+      </a>
+    </p> -->
 
 <!-- Trophies -->
 <p align="center">
@@ -44,59 +44,59 @@
 
 <!-- Connection -->
 <!-- <h3 align="center">Connect with me:</h3>
-  <p align="center">
-    <a target="blank" href="https://dev.to/fatihbarackilic" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-        alt="fatihbarackilic"
-        height="30"
-        width="40"
-    /></a>
-    <a target="blank" href="https://twitter.com/barackilicfatih" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-        alt="barackilicfatih"
-        height="30"
-        width="40"
-    /></a>
-    <a
-      target="blank"
-      href="https://linkedin.com/in/fatihbarackilic"
-      target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="fatihbarackilic"
-        height="30"
-        width="40"
-    /></a>
-    <a target="blank" href="https://instagram.com/fatihbarackilic" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="fatihbarackilic"
-        height="30"
-        width="40"
-    /></a>
-    <a target="blank" href="https://hashnode.com/@fatihbarackilic" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
-        alt="@fatihbarackilic"
-        height="30"
-        width="40"
-    /></a>
-    <a target="blank" href="https://medium.com/@fatihbarackilic" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-        alt="@fatihbarackilic"
-        height="30"
-        width="40"
-    /></a>
-  </p> -->
+    <p align="center">
+      <a target="blank" href="https://dev.to/fatihbarackilic" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+          alt="fatihbarackilic"
+          height="30"
+          width="40"
+      /></a>
+      <a target="blank" href="https://twitter.com/barackilicfatih" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+          alt="barackilicfatih"
+          height="30"
+          width="40"
+      /></a>
+      <a
+        target="blank"
+        href="https://linkedin.com/in/fatihbarackilic"
+        target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+          alt="fatihbarackilic"
+          height="30"
+          width="40"
+      /></a>
+      <a target="blank" href="https://instagram.com/fatihbarackilic" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+          alt="fatihbarackilic"
+          height="30"
+          width="40"
+      /></a>
+      <a target="blank" href="https://hashnode.com/@fatihbarackilic" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
+          alt="@fatihbarackilic"
+          height="30"
+          width="40"
+      /></a>
+      <a target="blank" href="https://medium.com/@fatihbarackilic" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+          alt="@fatihbarackilic"
+          height="30"
+          width="40"
+      /></a>
+    </p> -->
 
 <!-- Language and Tools -->
 <h3 align="center">Languages and Tools:</h3>

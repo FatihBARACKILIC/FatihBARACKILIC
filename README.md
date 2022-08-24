@@ -23,32 +23,14 @@
   </a>
 </p>
 
-<!-- <p align="center">
-  <a target="blank" href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img
-      src="https://quotes-github-readme.vercel.app/api?type=vertical"
-      alt="fatihbarackilic"
-    />
-  </a>
-</p> -->
-
-<!-- <p align="center">
-      <a target="blank" href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img
-          src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-          alt="fatihbarackilic"
-        />
-      </a>
-    </p> -->
-
 <!-- Trophies -->
 <p align="center">
-  <a target="blank" href="https://github.com/ryo-ma/github-profile-trophy">
+  <!-- <a target="blank" href="https://github.com/ryo-ma/github-profile-trophy"> -->
     <img
-      src="https://github-profile-trophy.vercel.app/?username=fatihbarackilic&theme=nord&no-bg=true&no-frame=true"
+      src="https://github-profile-trophy.vercel.app/?username=fatihbarackilic&theme=nord&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C"
       alt="fatihbarackilic"
     />
-  </a>
+  <!-- </a> -->
 </p>
 
 <!-- Connection -->

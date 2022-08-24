@@ -6,6 +6,16 @@
 <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&borderColor=white&qColor=%233178C6&aColor=%23C2D0D8&textColor=%23C2D0D8&codeColor=%23C2D0D8" alt="Jokes Card" />
 </p>
 
+<!-- Quotes -->
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+      alt="fatihbarackilic"
+    />
+  </a>
+</p>
+
 <!-- Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">

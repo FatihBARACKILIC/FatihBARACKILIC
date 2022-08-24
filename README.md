@@ -20,8 +20,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=fatihbarackilic&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="fatihbarackilic" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbarackilic&theme=github-dark-blue" alt="fatihbarackilic" />
 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbarackilic&theme=github-dark-blue" alt="fatihbarackilic" />
 </div>
 
 <div align="center">

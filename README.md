@@ -305,7 +305,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbarackilic&theme=github-dark-blue"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbarackilic&theme=github-dark-blue&hide_border=true"
     alt="fatihbarackilic"
   />
 </p>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A passionate Full Stack developer from Turkey</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihbarackilic&theme=darkhub" alt="fatihbarackilic" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihbarackilic&theme=darkhub&margin-h=15" alt="fatihbarackilic" /></a> </p>
 
 <!-- <h3 align="center">Connect with me:</h3>
 <p align="center">

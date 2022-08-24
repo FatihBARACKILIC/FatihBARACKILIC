@@ -27,7 +27,7 @@
 <p align="center">
   <!-- <a target="blank" href="https://github.com/ryo-ma/github-profile-trophy"> -->
     <img
-      src="https://github-profile-trophy.vercel.app/?username=fatihbarackilic&theme=nord&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C"
+      src="https://github-profile-trophy.vercel.app/?username=fatihbarackilic&no-bg=true&no-frame=true&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C"
       alt="fatihbarackilic"
     />
   <!-- </a> -->

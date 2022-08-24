@@ -2,9 +2,12 @@
 <h3 align="center">A passionate Full Stack developer from Turkey</h3>
 
 <!-- Joke -->
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&borderColor=white&qColor=%233178C6&aColor=%23C2D0D8&textColor=%23C2D0D8&codeColor=%23C2D0D8" alt="Jokes Card" />
-</p>
+<!-- <p align="center">
+  <img
+    src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&borderColor=white&qColor=%233178C6&aColor=%23C2D0D8&textColor=%23C2D0D8&codeColor=%23C2D0D8"
+    alt="Jokes Card"
+  />
+</p> -->
 
 <!-- Quotes -->
 <p align="center">
@@ -216,20 +219,23 @@
 </p>
 
 <!-- Github Stats -->
-<div align="center">
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=fatihbarackilic&show_icons=true&locale=en&theme=github_dark&show_icons=true"
     alt="fatihbarackilic"
   />
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbarackilic&theme=github-dark-blue"
     alt="fatihbarackilic"
   />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihbarackilic&show_icons=true&locale=en&layout=compact&theme=github_dark"
     alt="fatihbarackilic"
   />
-</div>
+</p>

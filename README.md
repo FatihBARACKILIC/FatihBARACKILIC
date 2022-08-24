@@ -17,14 +17,11 @@
 <p align="center">
   <a target="blank" href="https://github.com/piyushsuthar/github-readme-quotes">
     <img
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&layout=samuel"
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&layout=socrates"
       alt="fatihbarackilic"
     />
   </a>
 </p>
-<p></p>
-<p></p>
-<p></p>
 
 <!-- Trophies -->
 <p align="center">

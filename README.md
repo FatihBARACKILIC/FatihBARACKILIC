@@ -284,9 +284,9 @@
     />
   </a>
 </p>
-<hr/>
 
 <!-- Github Stats -->
+<h3 align="center">My Stats</h3>
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=fatihbarackilic&show_icons=true&locale=en&theme=github_dark&show_icons=true"

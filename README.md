@@ -309,10 +309,6 @@
     src="https://github-readme-stats.vercel.app/api?username=fatihbarackilic&show_icons=true&locale=en&theme=github_dark&show_icons=true&hide_border=true"
     alt="fatihbarackilic"
   />
-</p>
-
-
-<p align="right">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihbarackilic&show_icons=true&theme=github_dark&layout=compact&count_private=true&hide_border=true"
     alt="fatihbarackilic"

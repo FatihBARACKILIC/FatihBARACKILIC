@@ -1,4 +1,6 @@
-<img src="./assets/spiderman.jpg" with="100%" alt="fatihbarackilic" />
+<p align="center">
+  <img src="./assets/spiderman.jpg" with="100%" alt="fatihbarackilic" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A passionate Full Stack developer from Turkey</h3>
@@ -12,14 +14,12 @@
     </p> -->
 
 <!-- Quotes -->
-<p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img
       src="https://quotes-github-readme.vercel.app/api?type=horizontal"
       alt="fatihbarackilic"
     />
   </a>
-</p>
 <!-- <p align="center">
       <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img

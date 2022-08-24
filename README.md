@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A passionate Full Stack developer from Turkey</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihbarackilic" alt="fatihbarackilic" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihbarackilic&theme=darkhub" alt="fatihbarackilic" /></a> </p>
 
 <!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -18,12 +18,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fatihbarackilic&show_icons=true&locale=en" alt="fatihbarackilic" />
+<img src="https://github-readme-stats.vercel.app/api?username=fatihbarackilic&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="fatihbarackilic" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbarackilic&" alt="fatihbarackilic" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbarackilic&theme=github-dark-blue" alt="fatihbarackilic" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihbarackilic&show_icons=true&locale=en&layout=compact" alt="fatihbarackilic" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihbarackilic&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="fatihbarackilic" />
 </div>

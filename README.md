@@ -15,9 +15,9 @@
 
 <!-- Quotes -->
 <p align="center">
-  <a target="blank" href="https://github.com/piyushsuthar/github-readme-quotes">
+  <a target="blank" href="https://github.com/piyushsuthar/github-readme-quotes&layout=churchill">
     <img
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&layout=socrates"
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal"
       alt="fatihbarackilic"
     />
   </a>

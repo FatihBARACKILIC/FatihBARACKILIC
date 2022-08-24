@@ -17,7 +17,7 @@
 <p align="center">
   <a target="blank" href="https://github.com/piyushsuthar/github-readme-quotes" style="border-radius: 15px">
     <img
-      src="https://quotes-github-readme.vercel.app/api?type=vertical"
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal"
       alt="fatihbarackilic"
     />
   </a>

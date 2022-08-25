@@ -1,3 +1,5 @@
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#welcome-badges-4-readmemd-profile -->
+
 <p align="center">
   <img src="./assets/spiderman.jpg" with="100%" alt="fatihbarackilic" />
 </p>
@@ -90,7 +92,7 @@
     </p> -->
 
 <!-- Language and Tools -->
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages & Tools</h3>
 <p align="center">
   <a
     target="blank"
@@ -299,3 +301,139 @@
     alt="fatihbarackilic"
   />
 </p>
+
+<!-- <p align="center">
+  <img
+    src="https://activity-graph.herokuapp.com/graph?username=fatihbarackilic&theme=github&bg_color=0D1117"
+    alt="fatihbarackilic"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatihbarackilic&theme=github_dark"
+    alt="fatihbarackilic"
+  />
+</p> -->
+
+<!-- Badges -->
+<!-- <h3 align="center">Education</h3>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"
+    alt="codecademy"
+  />
+  <img
+    src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"
+    alt="freecodecamp"
+  />
+  <img
+    src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"
+    alt="Udemy"
+  />
+</p>
+
+<h3 align="center">Frameworks & Library</h3>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+    alt="bootstrap"
+  />
+  <img
+    src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+    alt="express"
+  />
+  <img
+    src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"
+    alt="fontawesome"
+  />
+  <img
+    src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"
+    alt="GitHub"
+  />
+  <img
+    src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"
+    alt="Json Web Token"
+  />
+  <img
+    src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
+    alt="markdown"
+  />
+  <img
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+    alt="nodejs"
+  />
+  <img
+    src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
+    alt="npm"
+  />
+  <img
+    src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
+    alt="Postman"
+  />
+  <img
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="react"
+  />
+  <img
+    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+    alt="redux"
+  />
+  <img
+    src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+    alt="sass"
+  />
+  <img
+    src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"
+    alt="svelte"
+  />
+  <img
+    src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white"
+    alt="ts-node"
+  />
+  <img
+    src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"
+    alt="vite"
+  />
+  <img
+    src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"
+    alt="yarn"
+  />
+</p>
+<h3 align="center">Code Editor & IDE</h3>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+    alt="VSCode"
+  />
+  <img
+    src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"
+    alt="WebStorm"
+  />
+</p>
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    alt="html5"
+  />
+  <img
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    alt="css3"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+    alt="javascript"
+  />
+  <img
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="typescript"
+  />
+</p>
+<h3 align="center">Linters</h3>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"
+    alt="prettier"
+  />
+</p> -->

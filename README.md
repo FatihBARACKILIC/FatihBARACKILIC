@@ -4,7 +4,7 @@
   <img src="./assets/spiderman.jpg" with="100%" alt="fatihbarackilic" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Fatih</h1>
+<h1 align="center">Hi there👋, I'm Fatih</h1>
 <h3 align="center">A passionate Full Stack developer from Turkey</h3>
 
 <!-- Joke -->

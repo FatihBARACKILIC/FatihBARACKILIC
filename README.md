@@ -38,14 +38,14 @@
 <!-- Connection -->
 <h3 align="center">Connect with me:</h3>
     <p align="center">
-      <a target="blank" href="https://dev.to/fatihbarackilic" target="blank"
+      <!-- <a target="blank" href="https://dev.to/fatihbarackilic" target="blank"
         ><img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
           alt="fatihbarackilic"
           height="30"
           width="40"
-      /></a>
+      /></a> -->
       <a target="blank" href="https://twitter.com/barackilicfatih" target="blank"
         ><img
           align="center"
@@ -65,7 +65,7 @@
           height="30"
           width="40"
       /></a>
-      <a target="blank" href="https://instagram.com/fatihbarackilic" target="blank"
+      <!-- <a target="blank" href="https://instagram.com/fatihbarackilic" target="blank"
         ><img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -88,7 +88,7 @@
           alt="@fatihbarackilic"
           height="30"
           width="40"
-      /></a>
+      /></a> -->
     </p>
 
 <!-- Language and Tools -->

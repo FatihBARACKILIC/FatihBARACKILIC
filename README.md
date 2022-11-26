@@ -36,7 +36,7 @@
 </p>
 
 <!-- Connection -->
-<!-- <h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
     <p align="center">
       <a target="blank" href="https://dev.to/fatihbarackilic" target="blank"
         ><img
@@ -89,7 +89,7 @@
           height="30"
           width="40"
       /></a>
-    </p> -->
+    </p>
 
 <!-- Language and Tools -->
 <h3 align="center">Languages & Tools</h3>

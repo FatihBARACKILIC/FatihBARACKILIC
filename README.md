@@ -218,7 +218,7 @@
       height="40"
     />
   </a>
-  <a
+  <!-- <a
     target="blank"
     href="https://reactjs.org/"
     target="_blank"
@@ -230,7 +230,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <a
     target="blank"
     href="https://flutter.dev/"

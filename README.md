@@ -258,7 +258,7 @@
 
 <p align="center">
   <img
-    src="https://my-github-readme-stats-coral.vercel.app/api?username=fatihbarackilic&show_icons=true&locale=en&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&show_icons=true"
+    src="https://my-github-readme-stats-coral.vercel.app/api?username=fatihbarackilic&show_icons=true&locale=en&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide=prs,issues"
     alt="fatihbarackilic"
   />
 </p>

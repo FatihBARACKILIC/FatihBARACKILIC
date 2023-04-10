@@ -29,7 +29,7 @@
 <p align="center">
   <!-- <a target="blank" href="https://github.com/ryo-ma/github-profile-trophy"> -->
     <img
-      src="https://github-profile-trophy.vercel.app/?username=fatihbarackilic&no-bg=true&no-frame=truemark&column=-1&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+      src="https://github-profile-trophy.vercel.app/?username=fatihbarackilic&no-bg=true&no-frame=true&column=-1&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
       alt="fatihbarackilic"
     />
   <!-- </a> -->

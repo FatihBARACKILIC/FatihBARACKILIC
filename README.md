@@ -265,7 +265,7 @@
 
 <p align="center">
   <img
-    src="https://my-github-readme-stats-coral.vercel.app/api/top-langs?username=fatihbarackilic&show_icons=true&theme=github_dark&layout=compact&count_private=true&hide_border=true&langs_count=10"
+    src="https://my-github-readme-stats-coral.vercel.app/api/top-langs?username=fatihbarackilic&show_icons=true&theme=github_dark&layout=compact&count_private=true&hide_border=true"
     alt="fatihbarackilic"
   />
 </p>

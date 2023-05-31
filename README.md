@@ -258,14 +258,14 @@
 
 <p align="center">
   <img
-    src="https://my-github-readme-stats-coral.vercel.app/api?username=fatihbarackilic&show_icons=true&locale=en&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide=prs,issues"
+    src="https://github-readme-stats-fbr.vercel.app/api?username=fatihbarackilic&show_icons=true&locale=en&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide=prs,issues"
     alt="fatihbarackilic"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://my-github-readme-stats-coral.vercel.app/api/top-langs?username=fatihbarackilic&show_icons=true&theme=github_dark&layout=compact&count_private=true&hide_border=true"
+    src="https://github-readme-stats-fbr.vercel.app/api/top-langs?username=fatihbarackilic&show_icons=true&theme=github_dark&layout=donut&count_private=true&hide_border=true"
     alt="fatihbarackilic"
   />
 </p>

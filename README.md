@@ -41,6 +41,14 @@
   </a>
 </div>
 
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbarackilic&theme=github-dark-blue&hide_border=true"
+    alt="fatihbarackilic"
+  />
+</div>
+
 <h3 align="center">Languages & Tools</h3>
 <div align="center">
   <img
@@ -86,12 +94,5 @@
   <img
     src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
     alt="IntelliJ IDEA"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbarackilic&theme=github-dark-blue&hide_border=true"
-    alt="fatihbarackilic"
   />
 </div>

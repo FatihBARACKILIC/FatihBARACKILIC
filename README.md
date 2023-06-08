@@ -15,13 +15,6 @@
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=fatihbarackilic&theme=dracula&no-bg=true&no-frame=true&column=-1&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
-    alt="fatihbarackilic"
-  />
-</div>
-
-<div align="center">
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbarackilic&theme=github-dark-blue&hide_border=true"
     alt="fatihbarackilic"
   />

@@ -8,7 +8,7 @@
 
 <div align="center">
   <img
-    src="https://github-trophies-nu.vercel.app/?username=fatihbarackilic&no-bg=true&no-frame=true&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+    src="https://github-trophies-nu.vercel.app/?username=fatihbarackilic&no-bg=true&no-frame=true&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
     alt="fatihbarackilic"
   />
 </div>

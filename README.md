@@ -1,21 +1,40 @@
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#welcome-badges-4-readmemd-profile -->
 
 <div align="center">
-  <img src="./assets/spiderman.jpg" with="100%" alt="fatihbarackilic" />
+  <img src="./assets/wlp-1.jpg" with="100%" alt="fatihbarackilic" />
 </div>
 
 <h1 align="center">Hi there👋, I'm Fatih</h1>
 
-<!-- Trophies -->
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=fatihbarackilic&no-bg=true&no-frame=true&column=-1&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+    src="https://github-trophies-nu.vercel.app/?username=fatihbarackilic&no-bg=true&no-frame=true&column=-1&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+    alt="fatihbarackilic"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=fatihbarackilic&theme=dracula&no-bg=true&no-frame=true&column=-1&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+    alt="fatihbarackilic"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=fatihbarackilic&theme=dracula&no-bg=true&no-frame=true"
+    alt="fatihbarackilic"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbarackilic&theme=github-dark-blue&hide_border=true"
     alt="fatihbarackilic"
   />
 </div>
 
 <h3 align="center">Connect With Me</h3>
-
 <div  align="center">
   <a
     target="blank"
@@ -39,14 +58,6 @@
       alt="Twitter"
     />
   </a>
-</div>
-
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbarackilic&theme=github-dark-blue&hide_border=true"
-    alt="fatihbarackilic"
-  />
 </div>
 
 <h3 align="center">Languages & Tools</h3>

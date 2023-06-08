@@ -24,7 +24,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/linkedin-0966c2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
@@ -35,7 +35,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
+      src="https://img.shields.io/badge/Twitter-1c9bf1?style=for-the-badge&logo=Twitter&logoColor=white"
       alt="Twitter"
     />
   </a>
@@ -52,47 +52,47 @@
 <h3 align="center">Languages & Tools</h3>
 <div align="center">
   <img
-    src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
+    src="https://img.shields.io/badge/Dart-0e1117?style=for-the-badge&logo=dart&logoColor=white"
     alt="Dart"
   />
   <img
-    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+    src="https://img.shields.io/badge/JavaScript-0e1117?style=for-the-badge&logo=javascript&logoColor=white"
     alt="JavaScript"
   />
   <img
-    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+    src="https://img.shields.io/badge/TypeScript-0e1117?style=for-the-badge&logo=typescript&logoColor=white"
     alt="TypeScript"
   />
   <img
-    src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+    src="https://img.shields.io/badge/java-0e1117?style=for-the-badge&logo=openjdk&logoColor=white"
     alt="Java"
   />
   <img
-    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+    src="https://img.shields.io/badge/html5-0e1117.svg?style=for-the-badge&logo=html5&logoColor=white"
     alt="HTML5"
   />
   <img
-    src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+    src="https://img.shields.io/badge/css3-161b22?style=for-the-badge&logo=css3&logoColor=white"
     alt="CSS3"
   />
   <img
-    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+    src="https://img.shields.io/badge/Flutter-161b22?style=for-the-badge&logo=flutter&logoColor=white"
     alt="Flutter"
   />
   <img
-    src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
+    src="https://img.shields.io/badge/node.js-161b22?style=for-the-badge&logo=node.js&logoColor=white"
     alt="Node.JS"
   />
   <img
-    src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+    src="https://img.shields.io/badge/Express.js-161b22?style=for-the-badge&logo=express&logoColor=white"
     alt="Express.JS"
   />
   <img
-    src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+    src="https://img.shields.io/badge/Visual%20Studio%20Code-161b22?style=for-the-badge&logo=visual-studio-code&logoColor=white"
     alt="Visual Studio Code"
   />
   <img
-    src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
+    src="https://img.shields.io/badge/IntelliJ_IDEA-161b22?style=for-the-badge&logo=intellij-idea&logoColor=white"
     alt="IntelliJ IDEA"
   />
 </div>

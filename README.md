@@ -1,12 +1,12 @@
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#welcome-badges-4-readmemd-profile -->
 
 <div align="center">
-  <img src="./assets/wlp-1.jpg" with="100%" alt="fatihbarackilic" />
+  <img src="./assets/wlp.jpg" with="100%" alt="fatihbarackilic" />
 </div>
 
 <h1 align="center">Hi there👋, I'm Fatih</h1>
 
-<div align="center">
+<!-- <div align="center">
   <img
     src="https://github-profile-trophy.vercel.app?username=fatihbarackilic&no-bg=true&no-frame=true&column=5&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
     alt="fatihbarackilic"
@@ -18,7 +18,7 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbarackilic&theme=github-dark-blue&hide_border=true"
     alt="fatihbarackilic"
   />
-</div>
+</div> -->
 
 <h3 align="center">Connect With Me</h3>
 <div  align="center">
@@ -48,6 +48,10 @@
 
 <h3 align="center">Languages & Tools</h3>
 <div align="center">
+  <img
+    src="https://img.shields.io/badge/C%23-0c1117?style=for-the-badge&logo=csharp&logoColor=white"
+    alt="C-Sharp"
+  />
   <img
     src="https://img.shields.io/badge/Dart-0c1117?style=for-the-badge&logo=dart&logoColor=white"
     alt="Dart"

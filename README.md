@@ -49,20 +49,20 @@
 <h3 align="center">Languages & Tools</h3>
 <div align="center">
   <img
-    src="https://img.shields.io/badge/C%23-0c1117?style=for-the-badge&logo=csharp&logoColor=white"
-    alt="C-Sharp"
-  />
-  <img
-    src="https://img.shields.io/badge/Dart-0c1117?style=for-the-badge&logo=dart&logoColor=white"
-    alt="Dart"
-  />
-  <img
     src="https://img.shields.io/badge/JavaScript-0c1117?style=for-the-badge&logo=javascript&logoColor=white"
     alt="JavaScript"
   />
   <img
     src="https://img.shields.io/badge/TypeScript-0c1117?style=for-the-badge&logo=typescript&logoColor=white"
     alt="TypeScript"
+  />
+  <img
+    src="https://img.shields.io/badge/C%23-0c1117?style=for-the-badge&logo=csharp&logoColor=white"
+    alt="C-Sharp"
+  />
+  <img
+    src="https://img.shields.io/badge/Dart-0c1117?style=for-the-badge&logo=dart&logoColor=white"
+    alt="Dart"
   />
   <!-- <img
     src="https://img.shields.io/badge/rust-0c1117?style=for-the-badge&logo=rust&logoColor=white"
@@ -77,12 +77,16 @@
     alt="CSS3"
   />
   <img
-    src="https://img.shields.io/badge/Flutter-0c1117?style=for-the-badge&logo=flutter&logoColor=white"
-    alt="Flutter"
-  />
-  <img
     src="https://img.shields.io/badge/node.js-0c1117?style=for-the-badge&logo=node.js&logoColor=white"
     alt="Node.JS"
+  />
+  <img
+    src="https://img.shields.io/badge/Bun-0c1117?style=for-the-badge&logo=bun&logoColor=white"
+    alt="Bun"
+  />
+  <img
+    src="https://img.shields.io/badge/Flutter-0c1117?style=for-the-badge&logo=flutter&logoColor=white"
+    alt="Flutter"
   />
   <img
     src="https://img.shields.io/badge/Express.js-0c1117?style=for-the-badge&logo=express&logoColor=white"

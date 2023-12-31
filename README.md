@@ -64,10 +64,10 @@
     src="https://img.shields.io/badge/TypeScript-0c1117?style=for-the-badge&logo=typescript&logoColor=white"
     alt="TypeScript"
   />
-  <img
+  <!-- <img
     src="https://img.shields.io/badge/rust-0c1117?style=for-the-badge&logo=rust&logoColor=white"
     alt="Rust"
-  />
+  /> -->
   <img
     src="https://img.shields.io/badge/html5-0c1117.svg?style=for-the-badge&logo=html5&logoColor=white"
     alt="HTML5"

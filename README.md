@@ -56,10 +56,10 @@
     src="https://img.shields.io/badge/TypeScript-0c1117?style=for-the-badge&logo=typescript&logoColor=white"
     alt="TypeScript"
   />
-  <img
+  <!-- <img
     src="https://img.shields.io/badge/C%23-0c1117?style=for-the-badge&logo=csharp&logoColor=white"
     alt="C-Sharp"
-  />
+  /> -->
   <img
     src="https://img.shields.io/badge/Dart-0c1117?style=for-the-badge&logo=dart&logoColor=white"
     alt="Dart"

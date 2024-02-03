@@ -93,11 +93,11 @@
     alt="Express.JS"
   />
   <img
-    src="https://img.shields.io/badge/Visual%20Studio%20Code-0c1117?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-    alt="Visual Studio Code"
+    src="https://img.shields.io/badge/Nest.js-0c1117?style=for-the-badge&logo=nestjs&logoColor=white"
+    alt="Nest.JS"
   />
   <img
-    src="https://img.shields.io/badge/IntelliJ_IDEA-0c1117?style=for-the-badge&logo=intellij-idea&logoColor=white"
-    alt="IntelliJ IDEA"
+    src="https://img.shields.io/badge/Visual%20Studio%20Code-0c1117?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+    alt="Visual Studio Code"
   />
 </div>

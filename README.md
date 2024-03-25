@@ -1,107 +1,33 @@
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#welcome-badges-4-readmemd-profile -->
+# Hi there👋, I'm Fatih
 
-<div align="center">
-  <img src="./assets/wlp.jpg" with="100%" alt="fatihbarackilic" />
-</div>
+<!-- ## Contact With Me -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-0966c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihbarackilic)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/BarackilicFatih)
 
-<h1 align="center">Hi there👋, I'm Fatih</h1>
+<!-- ## Language & Tools -->
 
-<!-- <div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app?username=fatihbarackilic&no-bg=true&no-frame=true&column=5&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
-    alt="fatihbarackilic"
-  />
-</div>
+## Languages
 
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbarackilic&theme=github-dark-blue&hide_border=true"
-    alt="fatihbarackilic"
-  />
-</div> -->
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=white)
 
-<h3 align="center">Connect With Me</h3>
-<div  align="center">
-  <a
-    target="blank"
-    href="https://www.linkedin.com/in/fatihbarackilic/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://img.shields.io/badge/linkedin-0966c2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a
-    target="blank"
-    href="https://twitter.com/BarackilicFatih"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://img.shields.io/badge/Twitter-1c9bf1?style=for-the-badge&logo=Twitter&logoColor=white"
-      alt="Twitter"
-    />
-  </a>
-</div>
+## Frameworks & Tools
 
-<h3 align="center">Languages & Tools</h3>
-<div align="center">
-  <img
-    src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white"
-    alt="JavaScript"
-  />
-  <img
-    src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=white"
-    alt="TypeScript"
-  />
-  <!-- <img
-    src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=white"
-    alt="C-Sharp"
-  /> -->
-  <img
-    src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=white"
-    alt="Dart"
-  />
-  <!-- <img
-    src="https://img.shields.io/badge/rust-0d1117?style=for-the-badge&logo=rust&logoColor=white"
-    alt="Rust"
-  /> -->
-  <img
-    src="https://img.shields.io/badge/html5-0d1117.svg?style=for-the-badge&logo=html5&logoColor=white"
-    alt="HTML5"
-  />
-  <img
-    src="https://img.shields.io/badge/css3-0d1117?style=for-the-badge&logo=css3&logoColor=white"
-    alt="CSS3"
-  />
-  <img
-    src="https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=white"
-    alt="Node.JS"
-  />
-  <img
-    src="https://img.shields.io/badge/Bun-0d1117?style=for-the-badge&logo=bun&logoColor=white"
-    alt="Bun"
-  />
-  <img
-    src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=white"
-    alt="Flutter"
-  />
-  <img
-    src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white"
-    alt="Express.JS"
-  />
-  <img
-    src="https://img.shields.io/badge/Nest.js-0d1117?style=for-the-badge&logo=nestjs&logoColor=white"
-    alt="Nest.JS"
-  />
-  <img
-    src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white"
-    alt="Next.JS"
-  />
-  <img
-    src="https://img.shields.io/badge/Visual%20Studio%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-    alt="Visual Studio Code"
-  />
-</div>
+![Node.JS](https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-0d1117?style=for-the-badge&logo=bun&logoColor=white)
+![Nest.JS](https://img.shields.io/badge/Nest.js-0d1117?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.JS](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=white)
+
+## Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-0d1117.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+## IDE
+
+![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0d1117?style=for-the-badge&logo=android-studio&logoColor=white)

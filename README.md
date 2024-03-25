@@ -97,6 +97,10 @@
     alt="Nest.JS"
   />
   <img
+    src="https://img.shields.io/badge/Next.js-0c1117?style=for-the-badge&logo=nextdotjs&logoColor=white"
+    alt="Next.JS"
+  />
+  <img
     src="https://img.shields.io/badge/Visual%20Studio%20Code-0c1117?style=for-the-badge&logo=visual-studio-code&logoColor=white"
     alt="Visual Studio Code"
   />

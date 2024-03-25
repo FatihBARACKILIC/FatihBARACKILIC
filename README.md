@@ -49,59 +49,59 @@
 <h3 align="center">Languages & Tools</h3>
 <div align="center">
   <img
-    src="https://img.shields.io/badge/JavaScript-0c1117?style=for-the-badge&logo=javascript&logoColor=white"
+    src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white"
     alt="JavaScript"
   />
   <img
-    src="https://img.shields.io/badge/TypeScript-0c1117?style=for-the-badge&logo=typescript&logoColor=white"
+    src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=white"
     alt="TypeScript"
   />
   <!-- <img
-    src="https://img.shields.io/badge/C%23-0c1117?style=for-the-badge&logo=csharp&logoColor=white"
+    src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=white"
     alt="C-Sharp"
   /> -->
   <img
-    src="https://img.shields.io/badge/Dart-0c1117?style=for-the-badge&logo=dart&logoColor=white"
+    src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=white"
     alt="Dart"
   />
   <!-- <img
-    src="https://img.shields.io/badge/rust-0c1117?style=for-the-badge&logo=rust&logoColor=white"
+    src="https://img.shields.io/badge/rust-0d1117?style=for-the-badge&logo=rust&logoColor=white"
     alt="Rust"
   /> -->
   <img
-    src="https://img.shields.io/badge/html5-0c1117.svg?style=for-the-badge&logo=html5&logoColor=white"
+    src="https://img.shields.io/badge/html5-0d1117.svg?style=for-the-badge&logo=html5&logoColor=white"
     alt="HTML5"
   />
   <img
-    src="https://img.shields.io/badge/css3-0c1117?style=for-the-badge&logo=css3&logoColor=white"
+    src="https://img.shields.io/badge/css3-0d1117?style=for-the-badge&logo=css3&logoColor=white"
     alt="CSS3"
   />
   <img
-    src="https://img.shields.io/badge/node.js-0c1117?style=for-the-badge&logo=node.js&logoColor=white"
+    src="https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=white"
     alt="Node.JS"
   />
   <img
-    src="https://img.shields.io/badge/Bun-0c1117?style=for-the-badge&logo=bun&logoColor=white"
+    src="https://img.shields.io/badge/Bun-0d1117?style=for-the-badge&logo=bun&logoColor=white"
     alt="Bun"
   />
   <img
-    src="https://img.shields.io/badge/Flutter-0c1117?style=for-the-badge&logo=flutter&logoColor=white"
+    src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=white"
     alt="Flutter"
   />
   <img
-    src="https://img.shields.io/badge/Express.js-0c1117?style=for-the-badge&logo=express&logoColor=white"
+    src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white"
     alt="Express.JS"
   />
   <img
-    src="https://img.shields.io/badge/Nest.js-0c1117?style=for-the-badge&logo=nestjs&logoColor=white"
+    src="https://img.shields.io/badge/Nest.js-0d1117?style=for-the-badge&logo=nestjs&logoColor=white"
     alt="Nest.JS"
   />
   <img
-    src="https://img.shields.io/badge/Next.js-0c1117?style=for-the-badge&logo=nextdotjs&logoColor=white"
+    src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white"
     alt="Next.JS"
   />
   <img
-    src="https://img.shields.io/badge/Visual%20Studio%20Code-0c1117?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+    src="https://img.shields.io/badge/Visual%20Studio%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=white"
     alt="Visual Studio Code"
   />
 </div>

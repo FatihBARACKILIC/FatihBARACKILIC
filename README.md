@@ -1,6 +1,7 @@
 # Hi there👋, I'm Fatih
 
 <!-- ## Contact With Me -->
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-0966c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihbarackilic)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/BarackilicFatih)
 
@@ -9,6 +10,7 @@
 ## Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=white)
 
 ## Frameworks & Tools
